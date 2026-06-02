@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-motion-kiss/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Slow Motion Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-motion-kiss/) |
+| **Get License** | [Obtain a Music License for Slow Motion Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-motion-kiss/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Take a breath and let the hour unwind
+> Leave the heavy weight of the world behind
+> I can feel the subtle temperature rise
+> Got a lifetime waiting inside your eyes
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
